@@ -1,4 +1,4 @@
-# Análisis de la Industria de Videojuegos (1980 - 2020)
+# EL Análisis de la Industria de Videojuegos (1980 - 2020)
 **Proyecto Final — Curso de Data Analysis con Python**
 
 Este repositorio contiene el análisis exploratorio y estratégico del catálogo histórico de videojuegos más popular de las últimas décadas. El objetivo es identificar patrones de consumo y divergencias culturales entre mercados globales.
